@@ -1,0 +1,76 @@
+[
+    {
+        "category_id":1,
+        "category":"colors and textures",
+        "types":
+        [{
+            "type_id":1,
+            "type":"Color"
+        },{
+            "type_id":2,
+            "type":"Texture"
+        },
+        {
+            "type_id":3,
+            "type":"Exterior texture"
+        }]
+    },
+    {
+        "category_id":2,
+        "category": "Interior",
+        "types":
+        [{
+            "type_id":1,
+            "type":"Wall Paint"
+        },{
+            "type_id":2,
+            "type":"Wall Texture"
+        },
+        {
+            "type_id":3,
+            "type":"Stencils"
+        }]
+    },
+    {
+        "category_id":3,
+        "category":"Exterior",
+        "types":
+        [{
+            "type_id":1,
+            "type":"Exteriors"
+        }]
+    },
+    {
+        "category_id":4,
+        "category": "Water Proofing",
+        "types":
+        [{
+            "type_id":1,
+            "type":"Bathrooms"
+        }]
+    },
+    {
+        "category_id":5,
+        "category":"Wood & Metal Paints",
+        "types":
+        [{
+            "type_id":1,
+            "type":"Wood Paints"
+        },{
+            "type_id":2,
+            "type":"Metal Paints"
+        }]
+    },
+	{
+        "category_id":6,
+        "category":"Tools",
+        "types":
+        [{
+            "type_id":1,
+            "type":"Brushes & Rollers"
+        },{
+            "type_id":2,
+            "type":"Mechanized Tools"
+        }]  
+    }
+]
